@@ -1,3 +1,4 @@
 <?php
 
 echo "latihan github";
+?>
